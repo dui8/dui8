@@ -1,4 +1,4 @@
 # Hello, I'm Hyeong min
 
-### Skills
+### 🔧 Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,cs,cpp,docker,linux,mysql,py,unity)](https://skillicons.dev)
